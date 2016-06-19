@@ -1,0 +1,5 @@
+* Q calc from input data using salt
+* Q calc from input data using "hydrometrisk flygel" or "flygelmätning"
+* unit calc's
+* darcy's law, simplified
+* water balance eqn
